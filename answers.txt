@@ -2,3 +2,42 @@ No code editor, no python interpreter, no Google!
 Show what you know!
 
 # Your answers here:
+
+1. 444
+
+2. undefined.  Improper use of syntax to get the value of account no456
+
+3. 100
+
+4. undefined.  Len is for Lists not dictionaries
+
+5. Dictionary
+
+6. a Pythonic List
+
+7. 3
+
+8. rose
+   tulip
+   daisy
+   
+9. ['tulip', 'daisy']
+   
+10. ['rose', 'daisy']
+
+11. undefined, changed the string to uppercase but had a lowercase 'c' in the if statement
+
+12. def
+
+13. : (a colin)
+
+14. class 
+
+15. a). class AClassLooksLikeThis
+
+16. __init__
+
+
+
+
+
